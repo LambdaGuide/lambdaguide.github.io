@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it as below."
+authors:
+- family-names: "van Dorst"
+  given-names: "Sofie"
+  # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+title: "LambdaGuide - a hyperspectral CLEM acquisition and processing tutorial"
+# doi: 10.5281/zenodo.XXXXXXX   # fill after first Zenodo release
+date-released: 2026-11-08
+url: "https://lambdaguide.github.io/"
+license: CC-BY-4.0
